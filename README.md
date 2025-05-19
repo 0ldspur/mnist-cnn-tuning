@@ -1,5 +1,4 @@
 # mnist-cnn-tuning
-# MNIST CNN Model – Improved Accuracy with Simple Tuning
 
 This project is about improving a basic CNN (Convolutional Neural Network) model trained on the MNIST dataset (handwritten digits). The original model had a test accuracy of around **95.72%**, and the goal was to tune the model to get **better results**.
 
